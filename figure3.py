@@ -4,10 +4,10 @@ Python code accompanying the paper:
 
 "Efficiency Analysis of Voltage Divider and Wheatstone Bridge Sensor Circuits"
 
-This script generates Figures 4 and 5.
+This script generates Figures 3.
 
 Author:
-Minh Tri Tran
+ Tri Tran
 
 License:
 MIT
