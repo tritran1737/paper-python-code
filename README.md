@@ -9,11 +9,11 @@ This repository contains the Python scripts used to generate the figures present
 
 ## Contents
 
-figure_4_and_5.py
-Generates Figures 4 and 5.
+figure3.py
+Generates Figures 3.
 
-figure6.py
-Generates Figure 6.
+figure4.py
+Generates Figure 4.
 
 ## Requirements
 
@@ -29,9 +29,9 @@ pip install -r requirements.txt
 
 ## Running
 
-python figure_4_and_5.py
+python figure3.py
 
-python figure6.py
+python figure4.py
 
 ## Author
 
