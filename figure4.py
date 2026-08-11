@@ -4,7 +4,7 @@ Python code accompanying the paper:
 
 "Efficiency Ratio Map"
 
-This script generates Figure 6.
+This script generates Figure 4.
 
 Author:
  Tri Tran
